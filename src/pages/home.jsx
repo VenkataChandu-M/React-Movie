@@ -51,7 +51,7 @@ function Home  () {
     return <div className="home">
         <div>
             <form onSubmit={handelSearch} className='search-form'>
-                <input type='text' placeholder='Search for raka..' value={searchQuery} className='search-input' 
+                <input type='text' placeholder='Search for Movie..' value={searchQuery} className='search-input' 
                 onChange={(e)=>setsearchQuery(e.target.value)}/>
                 <button type='submit' className='search-button'>Search</button>
             </form>
