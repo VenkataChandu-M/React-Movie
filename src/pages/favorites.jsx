@@ -2,7 +2,7 @@ import "../css/Favorites.css"
 
 const Favorites =() =>{
     return <div>
-        <h1>Puka</h1>
+        <h1>Coming Soon............</h1>
     </div>
 }
 
